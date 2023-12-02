@@ -6,7 +6,7 @@ Hi 👋 This is Piyush
 - 👀 I’m open to collborations on prijects..
 - 🌱 I’m currently learning new java frame work
 - 💞️ I’m looking to collaborate on projects and web development. 
-- 📫 
+  
 
 <!---
 Piyush-k-r/Piyush-k-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
