@@ -3,7 +3,7 @@ Hi 👋 This is Piyush
 
 -🌎 I'm based in patna
 - ✉️  You can contact me at piyush658.hitit2020@gmail.com
-- 👀 I’m open to collborations on prijects..
+- 👀 I’m open to collborations on projects..
 - 🌱 I’m currently learning new java frame work
 - 💞️ I’m looking to collaborate on projects and web development. 
   
